@@ -4,7 +4,7 @@
  
 - You are allowed to make pull requests that break the rules. We just merge it ;)
 - Do NOT remove other content.
-- Add your file to the Projects_By_Contributors file
+- Add your file to the Contributor_Projects folder
 - Styling/code can be pretty, ugly or stupid, big or small as long as it works.
 - Add your name to the contributorsList file.
 - Try to keep pull requests small to minimize merge conflicts
@@ -79,9 +79,7 @@ hacktoberfest :)
 - Are you getting paid for this? 
   - Sadly no. But I think we should. This is 100% unofficial and we do it for fun, fame and glory. 
 - Who are you and why are you doing this? 
-  - I am Ashutosh & I am doing this because I love Open Source and Hacktoberfest. I want to make it easier for people to get started with Hacktoberfest and Open Source. 
-- Should I come closer to the text saying 'Don't come closer' on the left side of the home tab ? 
-  - Nope. 
+  - I am Ashutosh & I am doing this because I love Open Source and Hacktoberfest. I want to make it easier for people to get started with Hacktoberfest and Open Source.  
 - How many pull request (PR) must be made? 
   - 4 
 - What is the event for? 

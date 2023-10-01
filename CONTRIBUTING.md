@@ -2,7 +2,7 @@
  
 - You are allowed to make pull requests that break the rules. We just merge it ;)
 - Do NOT remove other content.
-- Add your file to the Projects_By_Contributors file
+- Add your file to the Contributor_Projects folder
 - Styling/code can be pretty, ugly or stupid, big or small as long as it works
 - Add your name to the contributorsList file
 - Try to keep pull requests small to minimize merge conflicts
