@@ -1,0 +1,64 @@
+body {
+    background-color: lightblue;
+    color: rgb(0, 0, 0);
+    font-family: Arial, sans-serif;
+}
+
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+    
+}
+
+.banner {
+    color: #570af5;
+    /* font-family: sans-serif; */
+    font-family: cursive;
+}
+
+/* Animation for weather data */    
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.card {
+    animation: fadeIn 1s ease-in-out;
+    background-color: darkgrey;
+}
+/* Define a keyframes animation called 'move' */
+@keyframes move {
+    0% {
+        transform: translateX(-50px); /* Start position */
+    }
+    50% {
+        transform: translateX(50px); /* Middle position */
+    }
+    100% {
+        transform: translateX(-50px); /* End position */
+    }
+}
+
+/* Apply the 'move' animation to the header element */
+.banner {
+    animation: move 3s infinite; /* 3 seconds duration, infinite loop */
+}
+
+/* Define a keyframes animation called 'fade-in' */
+@keyframes fade-in {
+    0% {
+        opacity: 0; /* Start with 0% opacity */
+    }
+    100% {
+        opacity: 1; /* End with 100% opacity */
+    }
+}
+
+/* Apply the 'fade-in' animation to the weather card */
+.card-deck {
+    animation: fade-in 1s ease-in-out; /* 1 second duration with ease-in-out timing */
+}
