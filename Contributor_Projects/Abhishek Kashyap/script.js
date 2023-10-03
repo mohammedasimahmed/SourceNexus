@@ -1,5 +1,5 @@
 // API_KEY for the OpenWeatherMap API
-const API_KEY = "a8e71c9932b20c4ceb0aed183e6a83bb";
+const API_KEY = "use own OpenWeatherMap API";
 
 /**
  * Retrieve weather data from OpenWeatherMap
